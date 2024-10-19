@@ -1,5 +1,5 @@
 ## Hi, I'm Fred 👋
-I'm a Full Stack developer, currently working on a social media app based around sharing voice notes, and a music equipment sharing platform.
+I'm a Full Stack developer - currently working on a social media app based around sharing voice notes, and a music equipment sharing platform.
 
 ## Tools I use:
 
@@ -27,7 +27,12 @@ I'm a Full Stack developer, currently working on a social media app based around
 
 Goss is a social media platform where users share voice notes instead of written posts. Think of it as Twitter, but for audio content! Users can record, post, listen to, and interact with voice notes, making it a unique way to connect through sound. Built in Next.js, using mobile-first design principles. The backend is built using Supabase. Here's a demo video: [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 ### [GearSwap](https://github.com/Fred-A-M/gear-swap)
 
 GearSwap is an app which helps music creators connect with like minded individuals to arrange cost-free equipment swaps. Built in React, with a MongoDB backend.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
