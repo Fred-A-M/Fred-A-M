@@ -3,7 +3,7 @@ I'm a Full Stack developer - currently working on a social media app based aroun
 
 ## Tools I use:
 
-<div style="display: flex; gap: 15px;">
+<div align="center" style="display: flex; gap: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 height=40 title='TypeScript' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40 title='JavaScript' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width=40 height=40 title='React' />
@@ -23,7 +23,7 @@ I'm a Full Stack developer - currently working on a social media app based aroun
 
 ### [Goss](https://github.com/Fred-A-M/goss)
 
-<img align="center" src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 height=254 title='Goss' /> <br>
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 height=254 title='Goss' /></p> <br>
 
 Goss is a social media platform where users share voice notes instead of written posts. Think of it as Twitter, but for audio content! Users can record, post, listen to, and interact with voice notes, making it a unique way to connect through sound. Built in Next.js, using mobile-first design principles. The backend is built using Supabase. Here's a demo video: [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
