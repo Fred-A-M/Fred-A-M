@@ -1,5 +1,7 @@
 ## Hi, I'm Fred 👋
-I'm a Full Stack developer - currently working on a social media app based around sharing voice notes, and a music equipment sharing platform.
+Full-Stack Developer | Building dynamic web applications with JavaScript/TypeScript, React, and Express. Skilled in both MongoDB and PostgreSQL for efficient database management.
+
+Currently working on a social media app based around sharing voice notes, and a music equipment sharing platform.
 
 ## Tools I use:
 
