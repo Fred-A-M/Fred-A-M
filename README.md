@@ -27,12 +27,14 @@ Currently working on a social media app based around sharing voice notes, and a 
 
 <p align="center"><img align="center" src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 height=254 title='Goss' /></p> <br>
 
-Goss is a social media platform where users share voice notes instead of written posts. Think of it as Twitter, but for audio content! Users can record, post, listen to, and interact with voice notes, making it a unique way to connect through sound. Built in Next.js, using mobile-first design principles. The backend is built using Supabase. Here's a demo video: [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
+Goss is a social media platform where users share voice notes instead of written posts. Think of it as Twitter, but for audio content! Users can record, post, listen to, and interact with voice notes, making it a unique way to connect through sound. Built in Next.js, using mobile-first design principles. The backend is built using Supabase.
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 
 ### [GearSwap](https://github.com/Fred-A-M/gear-swap)
+
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/9c980e83-f990-4d39-9d06-9171e8abaf1b" width=450 title='GearSwap' /></p> <br>
 
 GearSwap is an app which helps music creators connect with like minded individuals to arrange cost-free equipment swaps. Built in React, with a MongoDB backend.
 
