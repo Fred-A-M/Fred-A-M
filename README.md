@@ -21,6 +21,14 @@ I'm a front-end developer who loves building fun, interactive stuff. I'm keen to
 
 ## Projects I've been working on:
 
+### [Alice Dowdall: Portfolio](https://github.com/Fred-A-M/AliceDowdall)
+
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/3c912f12-6e80-4daa-9bdb-3c10bd88f650" width=450 title='Alice Dowdall - Portfolio' /></p> <br>
+
+A fun portfolio site for a senior advertising creative.
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ### [Goss](https://github.com/Fred-A-M/goss)
 
 <p align="center"><img align="center" src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 title='Goss' /></p> <br>
