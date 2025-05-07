@@ -25,7 +25,15 @@ I'm a front-end developer who loves building fun, interactive stuff. I'm keen to
 
 <p align="center"><img align="center" src="https://github.com/user-attachments/assets/3c912f12-6e80-4daa-9bdb-3c10bd88f650" width=450 title='Alice Dowdall - Portfolio' /></p> <br>
 
-A fun portfolio site for a senior advertising creative.
+I built a portfolio site for Alice Dowdall, a senior advertising creative. She envisioned a playful homepage where her projects were scattered in an intentionally chaotic layout, brought to life by emoji-style eyes that track the user's cursor as they browse.
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### [Pokémon Explorer](https://github.com/Fred-A-M/pokemon-graphQL-project)
+
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/f5e8889a-f5b5-416c-a9b3-06328c645ccb" width=450 title='Pokémon Explorer' /></p> <br>
+
+An interactive site I built to explore the first three generations of Pokémon. It uses the public GraphQL PokéAPI to fetch data, letting users browse Pokémon, view their stats, and save favourites for easy comparison.
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -37,6 +45,13 @@ Goss is a social media platform where users share voice notes instead of written
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
+### [Mutant Trumps](https://github.com/Fred-A-M/mutant-trumps)
+
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/1fe52c53-c51e-42ef-ba9d-a328c30c672e" width=450 title='Mutant Trumps' /></p> <br>
+
+I built a 'Top Trumps' style game where the user competes against the computer to win the deck. I developed the gameplay mechanics from scratch and designed the cards, with mutant character images generated using DALL·E.
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### [GearSwap](https://github.com/Fred-A-M/gear-swap)
 
