@@ -1,7 +1,5 @@
 ## Hi, I'm Fred 👋
-Full-Stack Developer | Building dynamic web applications with JavaScript/TypeScript, React, and Express. Skilled in both MongoDB and PostgreSQL for efficient database management.
-
-Currently working on a social media app based around sharing voice notes, and a music equipment sharing platform.
+I'm a front-end developer who loves building fun, interactive stuff. I'm keen to create digital experiences that look great and feel even better to use. I'm always up for something new, especially if it's playful, visually interesting, or just a bit different.
 
 ## Tools I use:
 
@@ -21,7 +19,7 @@ Currently working on a social media app based around sharing voice notes, and a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width=40 height=40 title='jQuery' />
 </div>
 
-## Projects I'm Currently Working On:
+## Projects I've been working on:
 
 ### [Goss](https://github.com/Fred-A-M/goss)
 
